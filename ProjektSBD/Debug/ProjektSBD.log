@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+C:\Users\Dell\source\repos\ProjektSBD\ProjektSBD\Źródło.cpp(80,54): warning C4244: "=": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\Dell\source\repos\ProjektSBD\ProjektSBD\Źródło.cpp(108,54): warning C4244: "=": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\Dell\source\repos\ProjektSBD\ProjektSBD\Źródło.cpp(200,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Dell\source\repos\ProjektSBD\ProjektSBD\Źródło.cpp(249,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ProjektSBD.vcxproj -> C:\Users\Dell\source\repos\ProjektSBD\Debug\ProjektSBD.exe
